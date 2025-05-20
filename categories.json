@@ -1,0 +1,124 @@
+{
+  "categories":[
+    {
+      "value": "Entrepreneur",
+      "title": "entrepreneur",
+    },
+    {
+      "value": "Créateur de contenu",
+      "title": "content_creator",
+    },
+    {
+      "value": "Influenceur",
+      "title": "influencer",
+    },
+    {
+      "value": "Artiste",
+      "title": "artiste",
+    },
+    {
+      "value": "Musicien",
+      "title": "musicien",
+    },
+    {
+      "value": "Photographe",
+      "title": "photographe",
+    },
+    {
+      "value": "Blogueur",
+      "title": "blogueur",
+    },
+    {
+      "value": "Auteur",
+      "title": "auteur",
+    },
+    {
+      "value": "Coach de vie",
+      "title": "coach_de_vie",
+    },
+    {
+      "value": "Coach sportif",
+      "title": "coach_sportif",
+    },
+    {
+      "value": "Consultant",
+      "title": "consultant",
+    },
+    {
+      "value": "Chef d'entreprise",
+      "title": "chef_entreprise",
+    },
+    {
+      "value": "Spécialiste marketing",
+      "title": "specialiste_marketing",
+    },
+    {
+      "value": "Spécialiste en technologie",
+      "title": "specialiste_technologie",
+    },
+    {
+      "value": "Développeur",
+      "title": "developpeur",
+    },
+    {
+      "value": "Ingénieur",
+      "title": "ingenieur",
+    },
+    {
+      "value": "Designer graphique",
+      "title": "designer_graphique",
+    },
+    {
+      "value": "Freelance",
+      "title": "freelance",
+    },
+    {
+      "value": "Voyageur",
+      "title": "voyageur",
+    },
+    {
+      "value": "Chef cuisinier",
+      "title": "chef_cuisinier",
+    },
+    {
+      "value": "Styliste",
+      "title": "styliste",
+    },
+    {
+      "value": "Modèle",
+      "title": "modele",
+    },
+    {
+      "value": "Acteur",
+      "title": "acteur",
+    },
+    {
+      "value": "Activiste",
+      "title": "activiste",
+    },
+    {
+      "value": "Formateur",
+      "title": "formateur",
+    },
+    {
+      "value": "Entraîneur personnel",
+      "title": "entraineur_personnel",
+    },
+    {
+      "value": "Conseiller financier",
+      "title": "conseiller_financier",
+    },
+    {
+      "value": "Journaliste",
+      "title": "journaliste",
+    },
+    {
+      "value": "Étudiant",
+      "title": "etudiant",
+    },
+    {
+      "value": "Organisation non gouvernementale(ONG)",
+      "title": "organisation_non_gouvernementale_ong",
+    },
+  ]
+}
