@@ -1,0 +1,19 @@
+{
+  family_situations:[
+    {
+      "Title":"En couple",
+      "Value":"Maried"
+    },{
+      "Title":"Divorcé",
+      "Value":"Divorced"
+    },{
+      "Title":"Compliqué",
+      "Value":"Complicated"
+    },{
+      "Title":"Célibataire",
+      "Value":"Single"
+    },{
+      "Title":"Non spécifié",
+      "Value":"Not Specified"
+    }]
+}
