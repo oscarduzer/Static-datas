@@ -1,124 +1,124 @@
 {
-  "categories":[
+  "categories": [
     {
       "value": "Entrepreneur",
-      "title": "entrepreneur",
+      "title": "entrepreneur"
     },
     {
       "value": "Créateur de contenu",
-      "title": "content_creator",
+      "title": "content_creator"
     },
     {
       "value": "Influenceur",
-      "title": "influencer",
+      "title": "influencer"
     },
     {
       "value": "Artiste",
-      "title": "artiste",
+      "title": "artiste"
     },
     {
       "value": "Musicien",
-      "title": "musicien",
+      "title": "musicien"
     },
     {
       "value": "Photographe",
-      "title": "photographe",
+      "title": "photographe"
     },
     {
       "value": "Blogueur",
-      "title": "blogueur",
+      "title": "blogueur"
     },
     {
       "value": "Auteur",
-      "title": "auteur",
+      "title": "auteur"
     },
     {
       "value": "Coach de vie",
-      "title": "coach_de_vie",
+      "title": "coach_de_vie"
     },
     {
       "value": "Coach sportif",
-      "title": "coach_sportif",
+      "title": "coach_sportif"
     },
     {
       "value": "Consultant",
-      "title": "consultant",
+      "title": "consultant"
     },
     {
       "value": "Chef d'entreprise",
-      "title": "chef_entreprise",
+      "title": "chef_entreprise"
     },
     {
       "value": "Spécialiste marketing",
-      "title": "specialiste_marketing",
+      "title": "specialiste_marketing"
     },
     {
       "value": "Spécialiste en technologie",
-      "title": "specialiste_technologie",
+      "title": "specialiste_technologie"
     },
     {
       "value": "Développeur",
-      "title": "developpeur",
+      "title": "developpeur"
     },
     {
       "value": "Ingénieur",
-      "title": "ingenieur",
+      "title": "ingenieur"
     },
     {
       "value": "Designer graphique",
-      "title": "designer_graphique",
+      "title": "designer_graphique"
     },
     {
       "value": "Freelance",
-      "title": "freelance",
+      "title": "freelance"
     },
     {
       "value": "Voyageur",
-      "title": "voyageur",
+      "title": "voyageur"
     },
     {
       "value": "Chef cuisinier",
-      "title": "chef_cuisinier",
+      "title": "chef_cuisinier"
     },
     {
       "value": "Styliste",
-      "title": "styliste",
+      "title": "styliste"
     },
     {
       "value": "Modèle",
-      "title": "modele",
+      "title": "modele"
     },
     {
       "value": "Acteur",
-      "title": "acteur",
+      "title": "acteur"
     },
     {
       "value": "Activiste",
-      "title": "activiste",
+      "title": "activiste"
     },
     {
       "value": "Formateur",
-      "title": "formateur",
+      "title": "formateur"
     },
     {
       "value": "Entraîneur personnel",
-      "title": "entraineur_personnel",
+      "title": "entraineur_personnel"
     },
     {
       "value": "Conseiller financier",
-      "title": "conseiller_financier",
+      "title": "conseiller_financier"
     },
     {
       "value": "Journaliste",
-      "title": "journaliste",
+      "title": "journaliste"
     },
     {
       "value": "Étudiant",
-      "title": "etudiant",
+      "title": "etudiant"
     },
     {
       "value": "Organisation non gouvernementale(ONG)",
-      "title": "organisation_non_gouvernementale_ong",
-    },
+      "title": "organisation_non_gouvernementale_ong"
+    }
   ]
 }
